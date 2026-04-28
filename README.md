@@ -61,13 +61,12 @@
 <tr>
 <td width="33%">
 
-### 🧠 Bank Customer Churn Prediction  
-Artificial Neural Network model with **86% validation accuracy**.  
-End-to-end ML pipeline with deployment-ready artifacts.
+### 🧠Churn Prediction 
+An end-to-end Machine Learning system to predict customer churn using a production-ready pipeline, API, UI, and Dockerized deployment.
 
 <br>
 
-➡️ **[View Repo →](https://github.com/SachinKrMishra/Churn-Prediction----ANN)**
+➡️ **[View Repo →](https://github.com/SachinKrMishra/Churn-Prediction)**
 
 </td>
 
